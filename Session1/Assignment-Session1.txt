@@ -1,0 +1,12 @@
+1. 
+How to check a variable’s type?
+
+- Để kiểm tra một biến tồn tại hay không chúng ta có thể sử dụng toán tử typeof.Toán tử typeof được dùng để kiểm tra kiểu dữ liệu của biến
+object hoặc bất kỳ một giá trị nào cho trước
+
+In what cases, you will get SyntaxError from the compiler telling you that some of your variables have invalid names?
+Can you give 3 different examples of invalid names?
+
+- Khi mà biến chưa được khai báo
+- Biến đã được khai báo nhưng chưa được gán giá trị
+- Các biến khai báo bị trùng nhau

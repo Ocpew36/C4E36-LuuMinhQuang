@@ -1,0 +1,12 @@
+clear()
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+
+color("green")
+bg("yellow") 
